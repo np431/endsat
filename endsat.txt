@@ -1,0 +1,6 @@
+http://example.com
+cx https://www.nytimes.com/games/connections
+ai chat.openai.com/
+now time.is
+start https://github.com/new?template_name=endsat&template_owner=endsat&name=endsat
+cats https://www.google.com/search?sca_esv=207ae9da5723b1ec&sxsrf=AHTn8zrdj1kYuvG8V8F0JOYrWiq6BWBNDw:1738902150464&q=cats&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBtmuEdhfywyzhendkLDnhcoz2MIB1dVLatL09WpR-ccvCtXxLsflwELstGgc_oBVxoK4Y7T8UZBBji5dx0E-6JCZtb88GLeioJvf13V8cdv9FYgiL5szuOUJ0w6xwrJWcyDs6JuHP_xCa0SbN996ttYO3TvnwAq2QD8IAs5lRRpoX6hrnw&sa=X&ved=2ahUKEwip4uin27CLAxUh4ckDHWcnJKwQtKgLegQICxAB&biw=1639&bih=846&dpr=1
